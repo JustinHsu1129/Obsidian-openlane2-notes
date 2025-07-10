@@ -33,4 +33,9 @@ There are two levels in binary, which have physics representations:
 	+ Saturation, V<sub>GS</sub> > V<sub>th</sub>, V<sub>DS</sub> > V<sub>GS</sub> - V<sub>th</sub>, current is constant
 
 + Capacitance in MOSFETs occur due to the proximity of components when there is an applied voltage difference
-	+ This reduces switching speed because the capac
+	+ This reduces switching speed because the capacitance must first be charged/discharged before it can fully switch
+
++ Leakage in MOSFETs
+	+ Subthreshold leakage - current flows even when V<sub>GS</sub> < V<sub>th</sub>
+	+ Gate leakage - tunneling through the thin oxide layer
+	+ Other leakages - happens anywhere wi
