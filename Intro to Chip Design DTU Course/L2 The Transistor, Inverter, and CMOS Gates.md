@@ -48,4 +48,5 @@ There are two levels in binary, which have physics representations:
 	+ Power is only consumed when switching
 
 + Fast switching
-	+ The switch
+	+ The switching speed is limited by gate capacitances
+
