@@ -34,4 +34,6 @@ Spice simulation results:
 
 ![[Pasted image 20250709215401.png]]
 
-The wider a gate is, the more current can flow. The wider a gate is, the less its threshold voltage.
+> The wider a gate is, the more current can flow.
+
+# Making a Logic Inverter
