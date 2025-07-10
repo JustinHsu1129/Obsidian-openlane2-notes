@@ -38,4 +38,14 @@ There are two levels in binary, which have physics representations:
 + Leakage in MOSFETs
 	+ Subthreshold leakage - current flows even when V<sub>GS</sub> < V<sub>th</sub>
 	+ Gate leakage - tunneling through the thin oxide layer
-	+ Other leakages - happens anywhere wi
+	+ Other leakages - happens anywhere with a potential difference
+
+# The CMOS Inverter
+
+![[Pasted image 20250709210014.png]]
+
++ There is no static power dissipation
+	+ Power is only consumed when switching
+
++ Fast switching
+	+ The switch
