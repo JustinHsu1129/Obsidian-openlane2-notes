@@ -24,3 +24,8 @@ There are two levels in binary, which have physics representations:
 ![[Pasted image 20250709205400.png]]
 
 # Basic Working Principle of MOSFETs
+
+> Voltage at gate controls a channel between source and drain, and the key mechanism is that an applied voltage at the gate creates an electric field, thereby inducing a conductive channel between source and drain
+
++ MOSFET regions of operation:
+	+ Cutoff, 
