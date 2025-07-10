@@ -3,8 +3,11 @@
 ---
 --- 
 
+[[L1 Intro to Chip Design]]
 
+[[Lab 2 Exercises with SiliWiz]]
 
+---
 
 Information is represented with binary numbers.
 
@@ -66,3 +69,8 @@ There are two levels in binary, which have physics representations:
 
 + Standard cells are predefined layouts for basic gates (NOT, NAND, NOR, etc.)
 	+ This drastically simplifies chip design
+
+---
+
+[[L3 Verilog]]
+
