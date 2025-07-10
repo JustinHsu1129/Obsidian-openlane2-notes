@@ -34,4 +34,9 @@ Spice simulation results:
 
 ![[Pasted image 20250709214913.png]]
 
-> t looks like V<sub>th</sub> of this particular NMOS is ~11.06uV, with a width of 20
+> it looks like V<sub>th</sub> of this particular NMOS is ~11.06uV, with a width of 16.3
+
+![[Pasted image 20250709215401.png]]
+
+> it looks like V<sub>th</sub> of this particular NMOS is ~13.5uV, with a width of 7.38
+
