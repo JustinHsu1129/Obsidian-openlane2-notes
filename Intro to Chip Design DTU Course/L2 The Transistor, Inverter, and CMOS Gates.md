@@ -29,4 +29,5 @@ There are two levels in binary, which have physics representations:
 
 + MOSFET regions of operation:
 	+ Cutoff, V<sub>GS</sub> < V<sub>th</sub>, no current flows
-	+ Linear (ohmic/triode), 
+	+ Linear (ohmic/triode), V<sub>GS</sub> > V<sub>th</sub>, V<sub>DS</sub> < V<sub>GS</sub> - V<sub>th</sub>, current flows proportionally to V<sub>DS</sub>
+	+ Saturation, 
