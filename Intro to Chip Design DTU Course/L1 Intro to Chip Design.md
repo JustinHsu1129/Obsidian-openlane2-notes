@@ -70,3 +70,7 @@ This will be my notes for the 13 week course **Intro to Chip Design** at the Tec
 
 + OpenLane is an open source digital ASIC design flow
 	+ Provides a full flow from RTL to GDSII
+
+---
+
+[[L2 The Transistor, Inverter, and CMOS Gates]]

@@ -1,3 +1,11 @@
+---
+
+---
+--- 
+
+
+
+
 Information is represented with binary numbers.
 
 > this is the foundation of digital computing and digital electronics
