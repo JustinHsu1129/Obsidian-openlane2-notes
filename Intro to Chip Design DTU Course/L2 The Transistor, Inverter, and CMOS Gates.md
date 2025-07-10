@@ -12,10 +12,15 @@ There are two levels in binary, which have physics representations:
 + MOSFET stands for metal oxide semiconductor field effect transistor
 	+ MOSFETs are good transistors because they have high input impedance and low power consumption
 + There are two types of mosfets:
-	+ P-type: use holes as charge carriers
-	+ N-type: use electrons as charge carriers
+	+ P-type: use holes as charge carriers, turns on when G=0
+	+ N-type: use electrons as charge carriers, turns on when G=1
 		+ There are 4 pins on each MOSFET transistor:
 			+ Gate - controls current flow between source and drain
 			+ Source- the starting point of current flow in the transistor
 			+ Drain - the ending point of current flow in the transistor
 			+ Bulk - the semiconductor base material
+![[Pasted image 20250709205333.png]]
+
+![[Pasted image 20250709205400.png]]
+
+# Basic Working Principle of MOSFETs
