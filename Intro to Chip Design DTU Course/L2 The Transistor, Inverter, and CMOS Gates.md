@@ -30,4 +30,7 @@ There are two levels in binary, which have physics representations:
 + MOSFET regions of operation:
 	+ Cutoff, V<sub>GS</sub> < V<sub>th</sub>, no current flows
 	+ Linear (ohmic/triode), V<sub>GS</sub> > V<sub>th</sub>, V<sub>DS</sub> < V<sub>GS</sub> - V<sub>th</sub>, current flows proportionally to V<sub>DS</sub>
-	+ Saturation, 
+	+ Saturation, V<sub>GS</sub> > V<sub>th</sub>, V<sub>DS</sub> > V<sub>GS</sub> - V<sub>th</sub>, current is constant
+
++ Capacitance in MOSFETs occur due to the proximity of components when there is an applied voltage difference
+	+ This reduces switching speed because the capac
