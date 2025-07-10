@@ -30,14 +30,8 @@ Spice simulation results:
 
 ![[Pasted image 20250709214743.png]]
 
-> It looks like V<sub>th</sub> of this particular NMOS is ~11.06uV, with a width of 16.29
-
 ![[Pasted image 20250709214913.png]]
 
-> it looks like V<sub>th</sub> of this particular NMOS is ~11.06uV, with a width of 16.3
-
 ![[Pasted image 20250709215401.png]]
-
-> it looks like V<sub>th</sub> of this particular NMOS is ~13.5uV, with a width of 7.38
 
 The wider a gate is, the more current can flow. The wider a gate is, the less its threshold voltage.
