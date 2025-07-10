@@ -52,4 +52,9 @@ There are two levels in binary, which have physics representations:
 
 # Other CMOS Gates (NAND)
 
+![[Pasted image 20250709210252.png]]
 
+## Standard Cells
+
++ Standard cells are predefined layouts for basic gates (NOT, NAND, NOR, etc.)
+	+ This drastically simplifies chip design
