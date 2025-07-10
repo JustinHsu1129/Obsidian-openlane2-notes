@@ -5,8 +5,6 @@
 
 [[L1 Intro to Chip Design]]
 
-[[Lab 2 Exercises with SiliWiz]]
-
 ---
 
 Information is represented with binary numbers.
@@ -71,6 +69,8 @@ There are two levels in binary, which have physics representations:
 	+ This drastically simplifies chip design
 
 ---
+
+[[Lab 2 Exercises with SiliWiz]]
 
 [[L3 Verilog]]
 
