@@ -26,4 +26,8 @@ Spice simulation results:
 
 > C1 mc_70_224# m1_52_214# 1267.130005fF
 
-# Drawing
+# NMOS
+
+![[Pasted image 20250709214743.png]]
+
+> It looks like V<sub>th</sub> of this particular NMOS is ~11.06uV
