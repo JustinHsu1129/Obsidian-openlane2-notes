@@ -1,2 +1,2 @@
-# Obsidian
-Notes for obsidian
+# Obsidian-OpenLane2-notes
+Notes for DTU chip design class
