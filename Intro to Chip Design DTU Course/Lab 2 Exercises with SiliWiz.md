@@ -26,3 +26,4 @@ Spice simulation results:
 
 > C1 mc_70_224# m1_52_214# 1267.130005fF
 
+# Drawing
