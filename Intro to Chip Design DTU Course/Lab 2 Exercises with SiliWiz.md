@@ -12,3 +12,7 @@ Spice simulation results:
 
 ![[Pasted image 20250709213052.png]]
 
+# Voltage Divider
+
+![[Pasted image 20250709213938.png]]
+
