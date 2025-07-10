@@ -25,7 +25,7 @@ There are two levels in binary, which have physics representations:
 
 # Basic Working Principle of MOSFETs
 
-> Voltage at gate controls a channel between source and drain, and the key mechanism is that an applied voltage at the gate creates an electric field, thereby inducing a conductive channel between source and drain
+> Voltage at the gate controls a channel between source and drain, and the key mechanism is that an applied voltage at the gate creates an electric field, thereby inducing a conductive channel between source and drain
 
 + MOSFET regions of operation:
 	+ Cutoff, V<sub>GS</sub> < V<sub>th</sub>, no current flows
@@ -49,4 +49,7 @@ There are two levels in binary, which have physics representations:
 
 + Fast switching
 	+ The switching speed is limited by gate capacitances
+
+# Other CMOS Gates (NAND)
+
 
