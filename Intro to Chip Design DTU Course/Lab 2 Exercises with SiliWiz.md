@@ -16,3 +16,12 @@ Spice simulation results:
 
 ![[Pasted image 20250709213938.png]]
 
+# Capacitor
+
+![[Pasted image 20250709214240.png]]
+
+> C0 OUT IN 0.09fF
+
+![[Pasted image 20250709214306.png]]
+
+> 
