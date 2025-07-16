@@ -21,4 +21,11 @@
 	+ Used for parallel execution
 		+ Sequential logic
 
-# Reg VS 
+# Reg VS Wire
+
++ Reg used in `always` blocks
+	+ Can be a wire or register
+		+ Dependent on usage
++ Wire is a wire
+	+ Represents a port or combinational logic
+	+ Can be assigned and connects modules
