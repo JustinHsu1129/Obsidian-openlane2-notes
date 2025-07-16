@@ -14,4 +14,11 @@
 
 # Verilog Assignments
 
-+ Blocking assignment
++ Blocking assignments ( = )
+	+ Used for sequential execution (order matters)
+		+ Combinational logic
++ Non-blocking assignments ( <= )
+	+ Used for parallel execution
+		+ Sequential logic
+
+# Reg VS 
