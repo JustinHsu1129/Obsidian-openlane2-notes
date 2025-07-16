@@ -36,4 +36,3 @@ Spice simulation results:
 
 > The wider a gate is, the more current can flow.
 
-# Making a Logic Inverter
