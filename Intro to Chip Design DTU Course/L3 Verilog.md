@@ -29,3 +29,7 @@
 + Wire is a wire
 	+ Represents a port or combinational logic
 	+ Can be assigned and connects modules
+
+---
+
+[[L3 Verilog]]
