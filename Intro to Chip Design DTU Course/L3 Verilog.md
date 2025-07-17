@@ -32,4 +32,6 @@
 
 ---
 
-[[L3 Verilog]]
+[[Lab 3 Verilog and Testing]]
+
+[[L4 PnR Tools]]
