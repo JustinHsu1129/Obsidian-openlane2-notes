@@ -1,2 +1,3 @@
 # Obsidian-OpenLane2-notes
-Notes for DTU chip design class
+
+Notes for OpenLane2 usage
