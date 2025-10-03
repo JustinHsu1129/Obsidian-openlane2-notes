@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "aabcc92a4622c701",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
             "id": "93f336744f4e1152",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,7 +211,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "a400f90b4c4a3f50",
+  "active": "aabcc92a4622c701",
   "lastOpenFiles": [
     "OpenLane2 Commands and Macros.md",
     "Design Compiler Notes.md",
