@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "OpenLane2 Commands and Macros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "OpenLane2 Commands and Macros"
             }
           },
           {
@@ -187,6 +187,7 @@
   "active": "a3247171060cbaf6",
   "lastOpenFiles": [
     "Cheatsheet for OpenLane2 and Terminal.md",
-    "OpenLane2 Commands and Macros.md"
+    "OpenLane2 Commands and Macros.md",
+    "README.md"
   ]
 }
